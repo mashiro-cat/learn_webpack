@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkvue_webpack=self.webpackChunkvue_webpack||[]).push([[404],{404:function(e,n,t){t.r(n),t.d(n,{default:function(){return o}});var u=t(81),a=(t(788),t(252));const r=(0,a._)("h2",null,"this is about view",-1),c=(0,a.Uk)("点击");var i={name:"about",components:{ElButton:u.mi}};var o=(0,t(744).Z)(i,[["render",function(e,n,t,i,o,s){const l=u.mi;return(0,a.wg)(),(0,a.iD)(a.HY,null,[r,(0,a.Wm)(l,{type:"primary"},{default:(0,a.w5)((()=>[c])),_:1})],64)}]])}}]);
+//# sourceMappingURL=404.f3ba7eb550.chunk.js.map

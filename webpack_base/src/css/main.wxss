@@ -1,0 +1,5 @@
+.main .box2 {
+  width: 100px;
+  height: 100px;
+  background: url("../asset/002.gif") 100% 100%;
+}
